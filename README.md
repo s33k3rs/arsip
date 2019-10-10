@@ -1,4 +1,4 @@
-# Aplikasi Sederhanan Manajemen Arsip Data Siswa
+# Aplikasi Sederhana Manajemen Arsip Data Siswa
 
 Aplikasi ini terdiri dari 2 bagian ARDIS dan ARDOS.
 
